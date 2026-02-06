@@ -140,7 +140,7 @@ Only metadata is included.
 
 The same template can be deployed:
 - Across multiple AWS accounts
-- Across different platforms (MiHub, CDW, etc.)
+- Across different platforms 
 - Across multiple environments
 
 Only parameter values change — the template itself does not.
