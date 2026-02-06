@@ -1,2 +1,3 @@
 # cloudformation-detect-and-notify-team-after-aws-keys-are-rotated
-CloudFormation templates and utility scripts to detect credential rotation events and notify teams in GovCloud and multi-account AWS environments.
+Stack description
+Account-agnostic CloudFormation stack to detect AWS Secrets Manager rotation events and notify teams via SNS. Designed for reuse across multiple AWS accounts and regulated (GovCloud-style) environments.
